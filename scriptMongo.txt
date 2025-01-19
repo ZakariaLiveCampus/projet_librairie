@@ -1,0 +1,5 @@
+use librairie; 
+
+db.createCollection("articles");
+
+
